@@ -7,8 +7,10 @@ function happyHolidaysTo(name) {
   if (name) {
     return `Happy holidays, ${name}!`;
   }
-  function happyHolidaysTo(name,holiday) {
-    return `Happy ${holiday}, ${name}!`;
+  function happyHolidaysTo(holiday,name) {
+    if (name,holiday) {
+      return `Happy ${holiday}, ${name}!`;
+    }
   }
 }  
   
