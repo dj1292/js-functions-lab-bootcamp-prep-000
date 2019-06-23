@@ -5,5 +5,10 @@ function happyHolidays() {
 
 function happyHolidaysTo(Dan) {
   return 'Happy holidays, you!';
-  }
+}
+
+function holidayCountdown(Juneteenth,ten) {
+  return "It's ten days until Juneteenth!";
+}
+
 
